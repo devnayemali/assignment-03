@@ -1,4 +1,13 @@
-body, p, h1, h2, h3, h4, h5, h6, a, span{
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+span {
     font-family: 'Lato', sans-serif;
 }
 
@@ -6,4 +15,8 @@ body, p, h1, h2, h3, h4, h5, h6, a, span{
     color: #FFF;
     font-size: 18px;
     font-weight: 500;
+}
+
+.banner-overlay {
+    background: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0.00) 100%);
 }
