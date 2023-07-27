@@ -24,3 +24,9 @@ span {
 .team-overlay {
     background: rgba(18, 18, 18, 0.70);
 }
+
+.footer-menu ul li a {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+}
